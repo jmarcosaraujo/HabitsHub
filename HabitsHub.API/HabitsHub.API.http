@@ -1,0 +1,6 @@
+@HabitsHub.API_HostAddress = http://localhost:5175
+
+GET {{HabitsHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
